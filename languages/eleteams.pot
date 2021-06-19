@@ -1,0 +1,467 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ele Teams\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-10 08:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.1; wp-5.7\n"
+"X-Domain: eleteams"
+
+#: widgets/team-2.php:70
+msgid "+88 1214 245 125"
+msgstr ""
+
+#: widgets/team-5.php:269 widgets/team-7.php:130 widgets/team-6.php:218
+#: widgets/team-6.php:296
+msgid "Background Color"
+msgstr ""
+
+#: widgets/team-4.php:359 widgets/team-3.php:404 widgets/team-9.php:374
+#: widgets/team-8.php:359
+msgid "Bio Text Color"
+msgstr ""
+
+#: widgets/team-4.php:343 widgets/team-3.php:388 widgets/team-9.php:358
+#: widgets/team-8.php:343
+msgid "Biography"
+msgstr ""
+
+#: widgets/team-2.php:294 widgets/team-10.php:264 widgets/team-6.php:229
+msgid "Border"
+msgstr ""
+
+#: widgets/team-3.php:377
+msgid "Border Color"
+msgstr ""
+
+#: widgets/team-3.php:359
+msgid "Border Height"
+msgstr ""
+
+#: widgets/team-5.php:258 widgets/team-2.php:302 widgets/team-4.php:266
+#: widgets/team-3.php:266 widgets/team-10.php:321 widgets/team-9.php:258
+#: widgets/team-1.php:277 widgets/team-7.php:119 widgets/team-8.php:266
+#: widgets/team-6.php:285
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/team-3.php:341
+msgid "Border Width"
+msgstr ""
+
+#: widgets/team-10.php:240
+msgid "Box Height"
+msgstr ""
+
+#: widgets/team-6.php:211
+msgid "Box Hover Style"
+msgstr ""
+
+#: widgets/team-10.php:210
+msgid "Box Style"
+msgstr ""
+
+#: widgets/team-10.php:218
+msgid "Box Width"
+msgstr ""
+
+#: widgets/team-5.php:417 widgets/team-4.php:443 widgets/team-9.php:286
+#: widgets/team-1.php:306 widgets/team-1.php:394 widgets/team-6.php:444
+msgid "Center"
+msgstr ""
+
+#: widgets/team-5.php:100 widgets/team-2.php:116 widgets/team-4.php:108
+#: widgets/team-3.php:108 widgets/team-10.php:100 widgets/team-9.php:100
+#: widgets/team-1.php:100 widgets/team-8.php:108 widgets/team-6.php:100
+msgid "Change Style?"
+msgstr ""
+
+#: widgets/team-9.php:278 widgets/team-1.php:298
+msgid "Content Alignment"
+msgstr ""
+
+#: widgets/team-4.php:62 widgets/team-3.php:62 widgets/team-8.php:62
+msgid "Dr. Alan Stern was born in DuBois, Pennsylvania and is a graduate."
+msgstr ""
+
+#: widgets/team-1.php:46
+msgid "Ele Member Name"
+msgstr ""
+
+#: widgets/team-2.php:54 widgets/team-1.php:54
+msgid "Ele Office"
+msgstr ""
+
+#. Name of the plugin
+#: eleteams.php:129
+msgid "Ele Teams"
+msgstr ""
+
+#. Description of the plugin
+msgid "Elementor Team Builder Plugin"
+msgstr ""
+
+#: widgets/team-2.php:60 widgets/team-7.php:60 widgets/team-7.php:206
+msgid "Email"
+msgstr ""
+
+#: widgets/team-7.php:222
+msgid "Email Color"
+msgstr ""
+
+#: widgets/team-2.php:380
+msgid "Email,Phone"
+msgstr ""
+
+#: widgets/team-2.php:396
+msgid "Email,Phone Color"
+msgstr ""
+
+#: widgets/team-5.php:240 widgets/team-5.php:372 widgets/team-2.php:264
+#: widgets/team-4.php:248 widgets/team-4.php:398 widgets/team-3.php:248
+#: widgets/team-3.php:443 widgets/team-10.php:303 widgets/team-10.php:427
+#: widgets/team-9.php:240 widgets/team-1.php:248 widgets/team-1.php:427
+#: widgets/team-7.php:101 widgets/team-8.php:248 widgets/team-8.php:398
+#: widgets/team-6.php:267 widgets/team-6.php:399
+msgid "Height"
+msgstr ""
+
+#: widgets/team-5.php:197 widgets/team-2.php:221 widgets/team-4.php:205
+#: widgets/team-3.php:205 widgets/team-10.php:197 widgets/team-9.php:197
+#: widgets/team-1.php:205 widgets/team-8.php:205 widgets/team-6.php:197
+msgid "Hide"
+msgstr ""
+
+#: widgets/team-9.php:413
+msgid "Hnine"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://codecanyon.net/user/theme_unique"
+msgstr ""
+
+#: widgets/team-1.php:80
+msgid "Icon"
+msgstr ""
+
+#: widgets/team-5.php:409 widgets/team-4.php:435 widgets/team-6.php:436
+msgid "Icon Align"
+msgstr ""
+
+#: widgets/team-1.php:386
+msgid "Icon Alignment"
+msgstr ""
+
+#: widgets/team-5.php:135 widgets/team-2.php:151 widgets/team-4.php:143
+#: widgets/team-3.php:143 widgets/team-10.php:135 widgets/team-9.php:135
+#: widgets/team-1.php:135 widgets/team-8.php:143 widgets/team-6.php:135
+msgid "Icon Background  Color"
+msgstr ""
+
+#: widgets/team-5.php:431 widgets/team-2.php:436 widgets/team-4.php:457
+#: widgets/team-3.php:462 widgets/team-10.php:446 widgets/team-9.php:432
+#: widgets/team-1.php:464 widgets/team-8.php:417 widgets/team-6.php:458
+msgid "Icon Font Size"
+msgstr ""
+
+#: widgets/team-5.php:167 widgets/team-2.php:183 widgets/team-4.php:175
+#: widgets/team-3.php:175 widgets/team-10.php:167 widgets/team-9.php:167
+#: widgets/team-1.php:167 widgets/team-8.php:175 widgets/team-6.php:167
+msgid "Icon Hover Background"
+msgstr ""
+
+#: widgets/team-5.php:155 widgets/team-2.php:171 widgets/team-4.php:163
+#: widgets/team-3.php:163 widgets/team-10.php:155 widgets/team-9.php:155
+#: widgets/team-1.php:155 widgets/team-8.php:163 widgets/team-6.php:155
+msgid "Icon Hover Color"
+msgstr ""
+
+#: widgets/team-2.php:454
+msgid "Icon Padding"
+msgstr ""
+
+#: widgets/team-5.php:52 widgets/team-5.php:317 widgets/team-2.php:52
+#: widgets/team-2.php:351 widgets/team-4.php:52 widgets/team-4.php:315
+#: widgets/team-3.php:52 widgets/team-3.php:315 widgets/team-10.php:52
+#: widgets/team-10.php:370 widgets/team-9.php:52 widgets/team-9.php:330
+#: widgets/team-1.php:52 widgets/team-1.php:350 widgets/team-7.php:52
+#: widgets/team-7.php:178 widgets/team-8.php:52 widgets/team-8.php:315
+#: widgets/team-6.php:52 widgets/team-6.php:344
+msgid "Job Title"
+msgstr ""
+
+#: widgets/team-5.php:333 widgets/team-2.php:367 widgets/team-4.php:331
+#: widgets/team-3.php:331 widgets/team-10.php:386 widgets/team-9.php:346
+#: widgets/team-1.php:366 widgets/team-7.php:194 widgets/team-8.php:331
+#: widgets/team-6.php:360
+msgid "Job Title Color"
+msgstr ""
+
+#: widgets/team-5.php:413 widgets/team-4.php:439 widgets/team-9.php:282
+#: widgets/team-1.php:302 widgets/team-1.php:390 widgets/team-6.php:440
+msgid "Left"
+msgstr ""
+
+#: widgets/team-5.php:391 widgets/team-2.php:417 widgets/team-4.php:417
+#: widgets/team-1.php:445 widgets/team-6.php:418
+msgid "Line Height"
+msgstr ""
+
+#: widgets/team-5.php:46 widgets/team-2.php:46 widgets/team-4.php:46
+#: widgets/team-3.php:46 widgets/team-10.php:46 widgets/team-9.php:46
+#: widgets/team-7.php:46 widgets/team-8.php:46 widgets/team-6.php:46
+msgid "Member Name"
+msgstr ""
+
+#: widgets/team-5.php:44 widgets/team-5.php:290 widgets/team-2.php:44
+#: widgets/team-2.php:324 widgets/team-4.php:44 widgets/team-4.php:288
+#: widgets/team-3.php:44 widgets/team-3.php:288 widgets/team-10.php:44
+#: widgets/team-10.php:343 widgets/team-9.php:44 widgets/team-9.php:303
+#: widgets/team-1.php:44 widgets/team-1.php:323 widgets/team-7.php:44
+#: widgets/team-7.php:151 widgets/team-8.php:44 widgets/team-8.php:288
+#: widgets/team-6.php:44 widgets/team-6.php:317
+msgid "Name"
+msgstr ""
+
+#: widgets/team-5.php:306 widgets/team-2.php:340 widgets/team-4.php:304
+#: widgets/team-3.php:304 widgets/team-10.php:359 widgets/team-9.php:319
+#: widgets/team-1.php:339 widgets/team-7.php:167 widgets/team-8.php:304
+#: widgets/team-6.php:333
+msgid "Name Color"
+msgstr ""
+
+#: widgets/team-5.php:281 widgets/team-10.php:334 widgets/team-1.php:290
+#: widgets/team-6.php:308
+msgid "Name,Job Title"
+msgstr ""
+
+#: widgets/team-4.php:279 widgets/team-3.php:279 widgets/team-9.php:271
+#: widgets/team-8.php:279
+msgid "Name,Job Title,Bio"
+msgstr ""
+
+#: widgets/team-7.php:142
+msgid "Name,Job Title,Email"
+msgstr ""
+
+#: widgets/team-2.php:315
+msgid "Name,Job Title,Email,Phone"
+msgstr ""
+
+#: widgets/team-5.php:103 widgets/team-2.php:119 widgets/team-4.php:111
+#: widgets/team-3.php:111 widgets/team-10.php:103 widgets/team-9.php:103
+#: widgets/team-1.php:103 widgets/team-8.php:111 widgets/team-6.php:103
+msgid "No"
+msgstr ""
+
+#: widgets/team-5.php:117 widgets/team-5.php:149 widgets/team-2.php:133
+#: widgets/team-2.php:165 widgets/team-4.php:125 widgets/team-4.php:157
+#: widgets/team-3.php:125 widgets/team-3.php:157 widgets/team-10.php:117
+#: widgets/team-10.php:149 widgets/team-9.php:117 widgets/team-9.php:149
+#: widgets/team-1.php:117 widgets/team-1.php:149 widgets/team-8.php:125
+#: widgets/team-8.php:157 widgets/team-6.php:117 widgets/team-6.php:149
+msgid "Normal"
+msgstr ""
+
+#: widgets/team-7.php:62
+msgid "officer@gmail.com"
+msgstr ""
+
+#: widgets/team-2.php:62
+msgid "officer@mail.com"
+msgstr ""
+
+#: widgets/team-2.php:68
+msgid "Phone"
+msgstr ""
+
+#: widgets/team-5.php:33 widgets/team-5.php:211 widgets/team-2.php:33
+#: widgets/team-2.php:235 widgets/team-4.php:33 widgets/team-4.php:219
+#: widgets/team-3.php:33 widgets/team-3.php:219 widgets/team-10.php:33
+#: widgets/team-10.php:274 widgets/team-9.php:33 widgets/team-9.php:211
+#: widgets/team-1.php:33 widgets/team-1.php:219 widgets/team-7.php:33
+#: widgets/team-7.php:72 widgets/team-8.php:33 widgets/team-8.php:219
+#: widgets/team-6.php:33 widgets/team-6.php:238
+msgid "Photo"
+msgstr ""
+
+#: widgets/team-2.php:282 widgets/team-1.php:266
+msgid "Photo Bottom Spacing"
+msgstr ""
+
+#: widgets/team-5.php:54 widgets/team-4.php:54 widgets/team-3.php:54
+#: widgets/team-10.php:54 widgets/team-9.php:54 widgets/team-7.php:54
+#: widgets/team-8.php:54 widgets/team-6.php:54
+msgid "Position"
+msgstr ""
+
+#: widgets/team-5.php:90 widgets/team-2.php:106 widgets/team-4.php:98
+#: widgets/team-3.php:98 widgets/team-10.php:90 widgets/team-9.php:90
+#: widgets/team-1.php:90 widgets/team-8.php:98 widgets/team-6.php:90
+msgid "Profile Link"
+msgstr ""
+
+#: widgets/team-5.php:179 widgets/team-2.php:195 widgets/team-4.php:187
+#: widgets/team-3.php:187 widgets/team-10.php:179 widgets/team-9.php:179
+#: widgets/team-1.php:179 widgets/team-8.php:187 widgets/team-6.php:179
+msgid "Profile List"
+msgstr ""
+
+#: widgets/team-5.php:72 widgets/team-2.php:88 widgets/team-4.php:80
+#: widgets/team-3.php:80 widgets/team-10.php:72 widgets/team-9.php:72
+#: widgets/team-1.php:72 widgets/team-8.php:80 widgets/team-6.php:72
+msgid "Profile Name"
+msgstr ""
+
+#: widgets/team-5.php:421 widgets/team-4.php:447 widgets/team-9.php:290
+#: widgets/team-1.php:310 widgets/team-1.php:398 widgets/team-6.php:448
+msgid "Right"
+msgstr ""
+
+#: widgets/team-4.php:60 widgets/team-3.php:60 widgets/team-8.php:60
+msgid "Short Biography"
+msgstr ""
+
+#: widgets/team-5.php:196 widgets/team-2.php:220 widgets/team-4.php:204
+#: widgets/team-3.php:204 widgets/team-10.php:196 widgets/team-9.php:196
+#: widgets/team-1.php:204 widgets/team-8.php:204 widgets/team-6.php:196
+msgid "Show"
+msgstr ""
+
+#: widgets/team-5.php:194 widgets/team-2.php:218 widgets/team-4.php:202
+#: widgets/team-3.php:202 widgets/team-10.php:194 widgets/team-9.php:194
+#: widgets/team-1.php:202 widgets/team-8.php:202 widgets/team-6.php:194
+msgid "Show/Hide Profiles"
+msgstr ""
+
+#: widgets/team-5.php:64 widgets/team-5.php:346 widgets/team-2.php:80
+#: widgets/team-2.php:409 widgets/team-4.php:72 widgets/team-4.php:372
+#: widgets/team-3.php:72 widgets/team-3.php:417 widgets/team-10.php:64
+#: widgets/team-10.php:401 widgets/team-9.php:64 widgets/team-9.php:387
+#: widgets/team-1.php:64 widgets/team-1.php:379 widgets/team-8.php:72
+#: widgets/team-8.php:372 widgets/team-6.php:64 widgets/team-6.php:373
+msgid "Social Profile"
+msgstr ""
+
+#. Author of the plugin
+msgid "Syed Raziul Islam"
+msgstr ""
+
+#: widgets/team-8.php:10
+msgid "Team Design Eight"
+msgstr ""
+
+#: widgets/team-5.php:10
+msgid "Team Design Five"
+msgstr ""
+
+#: widgets/team-4.php:10
+msgid "Team Design Four"
+msgstr ""
+
+#: widgets/team-9.php:10
+msgid "Team Design Nine"
+msgstr ""
+
+#: widgets/team-1.php:10
+msgid "Team Design One"
+msgstr ""
+
+#: widgets/team-7.php:10
+msgid "Team Design Seven"
+msgstr ""
+
+#: widgets/team-6.php:10
+msgid "Team Design Six"
+msgstr ""
+
+#: widgets/team-10.php:10
+msgid "Team Design Ten"
+msgstr ""
+
+#: widgets/team-3.php:10
+msgid "Team Design Three"
+msgstr ""
+
+#: widgets/team-2.php:10
+msgid "Team Design Two"
+msgstr ""
+
+#: widgets/team-8.php:26
+msgid "Team Eight Content"
+msgstr ""
+
+#: widgets/team-5.php:26
+msgid "Team Five Content"
+msgstr ""
+
+#: widgets/team-9.php:26
+msgid "Team nine Content"
+msgstr ""
+
+#: widgets/team-1.php:26
+msgid "Team One Content"
+msgstr ""
+
+#: widgets/team-7.php:26
+msgid "Team seven Content"
+msgstr ""
+
+#: widgets/team-6.php:26
+msgid "Team Six Content"
+msgstr ""
+
+#: widgets/team-10.php:26
+msgid "Team Ten Content"
+msgstr ""
+
+#: widgets/team-4.php:26 widgets/team-3.php:26
+msgid "Team Three Content"
+msgstr ""
+
+#: widgets/team-2.php:26
+msgid "Team Two Content"
+msgstr ""
+
+#: widgets/team-5.php:123 widgets/team-2.php:139 widgets/team-4.php:131
+#: widgets/team-3.php:131 widgets/team-10.php:123 widgets/team-9.php:123
+#: widgets/team-1.php:123 widgets/team-8.php:131 widgets/team-6.php:123
+msgid "Text Color"
+msgstr ""
+
+#: widgets/team-5.php:298 widgets/team-5.php:325 widgets/team-2.php:332
+#: widgets/team-2.php:359 widgets/team-2.php:388 widgets/team-4.php:296
+#: widgets/team-4.php:323 widgets/team-4.php:351 widgets/team-3.php:296
+#: widgets/team-3.php:323 widgets/team-3.php:396 widgets/team-10.php:351
+#: widgets/team-10.php:378 widgets/team-9.php:311 widgets/team-9.php:338
+#: widgets/team-9.php:366 widgets/team-1.php:331 widgets/team-1.php:358
+#: widgets/team-7.php:159 widgets/team-7.php:186 widgets/team-7.php:214
+#: widgets/team-8.php:296 widgets/team-8.php:323 widgets/team-8.php:351
+#: widgets/team-6.php:325 widgets/team-6.php:352
+msgid "Typography"
+msgstr ""
+
+#: widgets/team-5.php:218 widgets/team-5.php:354 widgets/team-2.php:242
+#: widgets/team-4.php:226 widgets/team-4.php:380 widgets/team-3.php:226
+#: widgets/team-3.php:425 widgets/team-10.php:281 widgets/team-10.php:409
+#: widgets/team-9.php:218 widgets/team-9.php:395 widgets/team-1.php:226
+#: widgets/team-1.php:409 widgets/team-7.php:79 widgets/team-8.php:226
+#: widgets/team-8.php:380 widgets/team-6.php:245 widgets/team-6.php:381
+msgid "Width"
+msgstr ""
+
+#: widgets/team-5.php:102 widgets/team-2.php:118 widgets/team-4.php:110
+#: widgets/team-3.php:110 widgets/team-10.php:102 widgets/team-9.php:102
+#: widgets/team-1.php:102 widgets/team-8.php:110 widgets/team-6.php:102
+msgid "Yes"
+msgstr ""

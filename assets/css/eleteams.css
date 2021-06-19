@@ -1,0 +1,108 @@
+/*
+  Theme Name: Ele Teams
+  Author:theme_unique
+  Support: syedraziul@gmail.com
+  Description: Elementor Team Builder Plugin
+  Version: 1.0
+*/
+
+
+/*
+====================================================================
+Common Style
+====================================================================
+*/
+h4 {
+	margin: 0;
+}
+
+.center {
+	text-align: center;
+}
+
+.left {
+	text-align: left;
+}
+
+.right {
+	text-align: right;
+}
+
+
+/*
+====================================================================
+Team One Style
+====================================================================
+*/
+
+.eltm-team-img {
+	position: relative;
+	overflow: hidden;
+}
+
+.eltm-social-profile {
+	position: absolute;
+	bottom: 15px;
+	left: 0;
+	-webkit-transition: opacity .4s ease-in-out;
+	transition: opacity .4s ease-in-out;
+	width: 100%;
+	padding: 22px;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+}
+
+.eltm-social-profile a {
+	display: inline-block;
+	background: rgba(255, 255, 255, 0.12);
+	color: #fff;
+	width: 32px;
+	height: 32px;
+	text-align: center;
+	line-height: 32px;
+	border-radius: 50%;
+	margin-right: 8px;
+	font-size: 16px;
+	-webkit-transition: .4s;
+	transition: .4s;
+}
+
+.eltm-team-body h4 {
+	font-size: 20px;
+	margin-bottom: 5px;
+	color: #1e212c;
+}
+
+.eltm-team-body p {
+	color: #787a80;
+	font-size: 16px;
+}
+
+.eltm-team-box:hover .eltm-social-profile {
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+}
+
+.eltm-team-main-img {
+	position: relative;
+	margin: 0 0 16px;
+}
+
+.eltm-team-box:hover .eltm-team-main-img:before {
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+}
+
+.eltm-team-main-img:before {
+	display: block;
+	position: absolute;
+	background: -webkit-linear-gradient( top, rgba(30, 33, 44, 0) 43.9%, rgba(30, 33, 44, 0.03) 55.21%, rgba(30, 33, 44, 0.33) 68.73%, rgba(30, 33, 44, 0.56) 76.17%, rgba(30, 33, 44, 0.768225) 83.75%, rgba(30, 33, 44, 0.92) 91.49%, #1E212C 100%);
+	background: linear-gradient( 180deg, rgba(30, 33, 44, 0) 43.9%, rgba(30, 33, 44, 0.03) 55.21%, rgba(30, 33, 44, 0.33) 68.73%, rgba(30, 33, 44, 0.56) 76.17%, rgba(30, 33, 44, 0.768225) 83.75%, rgba(30, 33, 44, 0.92) 91.49%, #1E212C 100%);
+	-webkit-transition: opacity .4s;
+	transition: opacity .4s;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	content: '';
+	width: 100%;
+	height: 100%;
+}
