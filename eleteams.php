@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Ele Teams Lite
-Plugin URI: http://inherenttheme.com/eleteams/
+Plugin URI: http://themeunique.com/eleteams/
 Description: Elementor Team Builder Plugin
 Author: Syed Raziul Islam
 Author URI: https://codecanyon.net/user/theme_unique
