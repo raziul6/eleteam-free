@@ -5,7 +5,7 @@ Plugin URI: http://themeunique.com/eleteams/
 Description: Elementor Team Builder Plugin
 Author: Syed Raziul Islam
 Author URI: https://codecanyon.net/user/theme_unique
-Version: 1.0
+Version: 1.1
 Text Domain: eleteams
 Domain Path: languages
 */

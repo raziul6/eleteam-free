@@ -493,7 +493,7 @@ class eleteamOne extends \Elementor\Widget_Base {
             <div class="eltm-team-box">
                 <div class="eltm-team-img">
                     <div class="eltm-team-main-img">
-						<img src="<?php echo esc_url($team_photo['url']);?>" alt="<?php echo esc_html($team_name);?>">
+						<img src="<?php echo esc_url($team_photo['url']);?>" alt="<?php echo esc_attr($team_name);?>">
 					</div>
                     <?php if($show_profiles):?>
 						<div class="eltm-social-profile <?php echo esc_attr($icon_align);?>">
