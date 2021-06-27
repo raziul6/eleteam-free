@@ -329,7 +329,6 @@ class eleteamOne extends \Elementor\Widget_Base {
 			[
 				'name' => 'content_typography',
 				'label' => esc_html__( 'Typography', 'eleteams' ),
-				'scheme' => \Elementor\Scheme_Typography::TYPOGRAPHY_1,
 				'selector' => '{{WRAPPER}} .eltm-team-body h4',
 			]
 		);
@@ -356,7 +355,6 @@ class eleteamOne extends \Elementor\Widget_Base {
 			[
 				'name' => 'job_title_typography',
 				'label' => esc_html__( 'Typography', 'eleteams' ),
-				'scheme' => \Elementor\Scheme_Typography::TYPOGRAPHY_1,
 				'selector' => '{{WRAPPER}} .eltm-team-body p',
 			]
 		);
